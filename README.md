@@ -25,7 +25,7 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mantured&show_icons=true&theme=cobalt&hide_border=true&locale=en&layout=compact" alt="mantured" width="450" />
 
 <!-- &nbsp; -->
-<img  src="https://github-readme-stats.vercel.app/api?username=mantured&show_icons=true&theme=cobalt&hide_border=true&locale=en" alt="mantured"  width="450"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=mantured&show_icons=true&theme=cobalt&hide_border=true&locale=en" alt="mantured"  width="400"/>
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mantured&" alt="mantured" width="450"/>
 </div>
