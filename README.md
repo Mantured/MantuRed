@@ -25,6 +25,4 @@
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=mantured&show_icons=true&theme=cobalt&hide_border=true&locale=en" alt="mantured" /></p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
