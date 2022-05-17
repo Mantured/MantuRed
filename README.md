@@ -1,5 +1,3 @@
-Star this repo9894
-Fork on GitHub2441
 <h1 align="center">Hi 👋, I'm Manu</h1>
 <h3 align="center">A passionate student full-stack developer!</h3>
 
