@@ -24,8 +24,6 @@
 <p float="left">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mantured&show_icons=true&theme=cobalt&hide_border=true&locale=en&layout=compact" alt="mantured" width="400" />
 
-&nbsp;
-
 <img  src="https://github-readme-stats.vercel.app/api?username=mantured&show_icons=true&theme=cobalt&hide_border=true&locale=en" alt="mantured"  width="400"/>
 </p>
 
