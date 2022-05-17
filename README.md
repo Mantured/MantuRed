@@ -27,8 +27,8 @@
 
 &nbsp;
 
-<p float="left">
+<p float="right">
 <img  src="https://github-readme-stats.vercel.app/api?username=mantured&show_icons=true&theme=cobalt&hide_border=true&locale=en" alt="mantured"  width="400"/>
 </p>
 
-<div align="center">![Jokes Card](https://readme-jokes.vercel.app/api)</div>
+![Jokes Card](https://readme-jokes.vercel.app/api)
