@@ -2,9 +2,13 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 <h3 align="center">I'm a full-stack Dev student and tech passionate</h3>
 
+<p>
  </br>
 &nbsp;
-<div align="center"><img hight="320" width="450"  alt="GIF" src="assets\93195.gif"></div>
+<div align="center" ><img hight="320" width="450"  alt="GIF" src="assets\93195.gif"></div>
+                                                                                                 
+                                                                                                  
+
 
 - 📫 How to reach me **manuel31gerolin@gmail.com**
 
