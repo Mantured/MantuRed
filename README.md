@@ -6,7 +6,7 @@
 
 <p>
  </br>
-<img hight="320" width="450" align="center" alt="GIF" src="assets\93195.gif">
+<div align="center"><img hight="320" width="450"  alt="GIF" src="assets\93195.gif"></div>
 
 - 📫 How to reach me **manuel31gerolin@gmail.com**
 
