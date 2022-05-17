@@ -1,11 +1,11 @@
+Star this repo9894
+Fork on GitHub2441
 <h1 align="center">Hi 👋, I'm Manu</h1>
 <h3 align="center">A passionate student full-stack developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mantured&label=Profile%20views&color=0e75b6&style=flat" alt="mantured" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mantured" alt="mantured" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/irishm_g" target="blank"><img src="https://img.shields.io/twitter/follow/irishm_g?logo=twitter&style=for-the-badge" alt="irishm_g" /></a> </p>
 
 - 📫 How to reach me **manuel31gerolin@gmail.com**
 
@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mantured&show_icons=true&locale=en" alt="mantured" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mantured&" alt="mantured" /></p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
