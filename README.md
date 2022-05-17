@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/irishm_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irishm_g" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://it.linkedin.com/in/manuel-gerolin-5b38a6167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://it.linkedin.com/in/manuel-gerolin-5b38a6167" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manuel-gerolin-5b38a6167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuel-gerolin-5b38a6167" height="30" width="40" /></a>
 <a href="https://instagram.com/irish_2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irish_2.0" height="30" width="40" /></a>
 <a href="https://discord.gg/ilMantu#9839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ilMantu#9839" height="30" width="40" /></a>
 </p>
