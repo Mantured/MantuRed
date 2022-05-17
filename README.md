@@ -27,4 +27,4 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Jokes Card](https://readme-jokes.vercel.app/theme?radical)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme/radical)
