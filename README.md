@@ -23,6 +23,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantured&show_icons=true&theme=cobalt&hide_border=true&locale=en&layout=compact" alt="mantured" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mantured&show_icons=true&theme=cobalt&hide_border=true&locale=en" alt="mantured" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mantured&show_icons=true&theme=cobalt&hide_border=true&locale=en" alt="mantured" /></p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
