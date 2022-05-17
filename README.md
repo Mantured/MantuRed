@@ -2,8 +2,6 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 <h3 align="center">I'm a full-stack Dev student and tech passionate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mantured&label=Profile%20views&color=0e75b6&style=flat" alt="mantured" /> </p>
-
 <p>
  </br>
 <div align="center"><img hight="320" width="450"  alt="GIF" src="assets\93195.gif"></div>
@@ -26,3 +24,5 @@
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=mantured&show_icons=true&theme=cobalt&hide_border=true&locale=en" alt="mantured" /></p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mantured&label=Profile%20views&color=0e75b6&style=flat" alt="mantured" /> </p>
