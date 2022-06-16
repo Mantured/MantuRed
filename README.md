@@ -4,7 +4,7 @@
 
 <p>
  </br>
-<div align="center" ><img hight="320" width="450"  alt="GIF" src="assets\93195.gif"></div>
+<div align="center" ><img hight="320" width="450"  alt="GIF" src="https://c.tenor.com/ISoEHA7aViQAAAAC/hisoka-cards.gif"></div>
 
 &nbsp;
 
