@@ -10,7 +10,7 @@
 
 📫 How to reach me **manuelgerolin.dev@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mantured&rank=C,?&theme=gruvbox" alt="mantured" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mantured&rank=-C,-?&theme=gruvbox" alt="mantured" /></a> </p>
 
 
 
